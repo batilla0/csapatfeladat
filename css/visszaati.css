@@ -1,0 +1,14 @@
+.vissza {
+    font-weight: bold;
+    display: flex;
+    color: navy;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 1%;
+    padding: 15px;
+    border-radius: 20px;
+    font-size: 20px;
+    text-align: justify;
+    float: right;
+    margin-top: 625px;
+}
