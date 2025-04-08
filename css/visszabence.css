@@ -1,7 +1,6 @@
 .vissza{
     font-weight: bold;
     display: flex;
-    color: navy;
     margin-left: 5%;
     margin-right: 5%;
     margin-top: 1%;
@@ -11,4 +10,13 @@
     text-align: justify;
     float: right;
     margin-top: 645px;
+}
+
+a {
+    color: #6495ed;
+    text-decoration: none;
+}
+
+a:hover {
+    text-shadow: 0 0 10px #6495ed;
 }
