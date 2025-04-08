@@ -17,7 +17,6 @@ body {
 h1 {
     text-align: center;
     margin-bottom: 20px;
-    text-align: center;
     color: #fff;
     text-shadow: 0 0 10px #ffffff, 0 0 20px #6495ed, 0 0 30px #6495ed;
 }
@@ -30,7 +29,6 @@ h1 {
     width: 350px;
     margin-left: 400px;
     margin-top: 50px;
-    border-radius: 20px;
     overflow: hidden;
     background-color: rgba(255, 255, 255, 0.05);
     padding: 10px;
@@ -61,7 +59,6 @@ img:hover {
     margin-right: 400px;
     float: right;
     margin-top: -555px;
-    border-radius: 20px;
     overflow: hidden;
     background-color: rgba(255, 255, 255, 0.05);
     padding: 10px;
@@ -76,7 +73,6 @@ img:hover {
     margin-top: 1%;
     padding: 15px;
     border: 1px solid #aaa;
-    border-radius: 20px;
     font-size: 20px;
     text-align: justify;
     background: rgba(50, 50, 50, 0.8);

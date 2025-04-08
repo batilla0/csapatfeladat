@@ -22,7 +22,6 @@ a {
 h1 {
     text-align: center;
     margin-bottom: 20px;
-    text-align: center;
     color: #fff;
     text-shadow: 0 0 10px #ffffff, 0 0 20px #6495ed, 0 0 30px #6495ed;
 }
@@ -30,7 +29,6 @@ h1 {
 .shadow {
     border-style: solid;
     border-width: 5px;
-    border-radius: 20px;
     height: 500px;
     width: 350px;
     margin-left: 400px;
@@ -60,7 +58,6 @@ img:hover {
 .eredettortenet2 {
     border-style: solid;
     border-width: 5px;
-    border-radius: 20px;
     height: 500px;
     width: 350px;
     margin-right: 125px;
@@ -81,7 +78,6 @@ img:hover {
     margin-top: 1%;
     padding: 15px;
     border: 1px solid #aaa;
-    border-radius: 20px;
     font-size: 20px;
     text-align: justify;
     background: rgba(50, 50, 50, 0.8);
